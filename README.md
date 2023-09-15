@@ -1,0 +1,1 @@
+Custom wordpress site for registration and claim Helmet insurance. This site is developed using elementor, essential addon for elementor, Login with phone number, and other plugins. The registered insurance, insurance activation form, and the claim form are custom templates and embed on page using shortcodes.
